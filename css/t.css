@@ -121,3 +121,7 @@ span.linkss-title {
     padding:0;
     border:0
 }
+@media(max-width:630px) {
+    .links ul li {
+    width:100% !important
+}
